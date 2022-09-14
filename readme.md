@@ -1,3 +1,3 @@
 # Este es un archivo prueba escrito en markdown
-*Este texto estará en italica*
-**y este en negritas**
+*This text in italic*
+**and this one in bold**
